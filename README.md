@@ -1,64 +1,86 @@
-👩‍💻 Chaya Fertig – Software Developer
-📧 chaya.fertig2025@gmail.com
-📞 053-4137217
-🌐 GitHub Profile <!-- Replace with actual link -->
+# 👋 Hi there! I'm Chaya Fertig
 
-👋 About Me
-I'm a highly motivated and fast-learning software developer with a strong foundation in full-stack development and a passion for building real-world, impactful applications. My experience includes developing both frontend and backend systems, collaborating in team environments, and integrating modern technologies like OpenAI APIs and cloud workflows.
+🎓 Junior Software Developer | 💻 Full-Stack Enthusiast | 🚀 Passionate Problem-Solver
 
-I'm currently seeking my first professional opportunity in tech, where I can contribute, learn, and grow.
+---
 
-🔧 Technical Skills
-Languages: JavaScript, TypeScript, C#, C++, Java, Python, C
-Frontend: React.js, HTML5, CSS (Tailwind)
-Backend: Node.js, .NET Core, Express
-Databases: PostgreSQL, MongoDB, SQL Server
-Tools & Platforms: GitHub, Postman, Swagger, GitHub Actions
-Workspaces: Windows & Linux
-Other: Entity Framework, AutoMapper, Leaflet, OpenAI API
+## 🧠 About Me
 
-💼 Projects
-🚀 SmartCart – Price Comparison System
-Internship Project @ DaversiTech Technologies (2025)
-Developed a full-stack web platform for comparing retail prices across networks.
-Tech Stack: React.js | Node.js | PostgreSQL
+I'm a highly motivated and fast-learning software developer with strong problem-solving skills and a love for building meaningful, high-quality projects. I’ve gained hands-on experience in both frontend and backend development, working with real clients and modern technologies.
 
-Integrated OpenAI API for product tagging
+🔍 I'm currently seeking my first role in the tech industry where I can contribute, grow, and make an impact.
 
-Implemented interactive maps using Leaflet
+---
 
-API documentation with Swagger
+## 🔧 Tech Stack
 
-CI/CD with GitHub Actions
+**Languages:**  
+`JavaScript` `TypeScript` `C#` `.NET Core` `C++` `Java` `Python`  
 
-Collaboration in a professional team setting
+**Frontend:**  
+`React.js` `HTML5` `CSS` (Tailwind)  
 
-🔗 Link to Code <!-- Add project repo link -->
+**Backend:**  
+`Node.js` `Express` `.NET Core`  
 
-🏋️ Gym Management System
-Personal Final Project (2025)
-Designed a web-based system to manage gym memberships and class bookings.
-Tech Stack: React.js | .NET Core (C#) | SQL Server
+**Databases:**  
+`PostgreSQL` `MongoDB` `SQL Server`  
 
-Built 3-layer architecture using Entity Framework and AutoMapper
+**Tools & Platforms:**  
+`Git` `GitHub` `Swagger` `Postman` `GitHub Actions`  
+`OpenAI API` `Leaflet`  
 
-Implemented authentication and scheduling features
+**Workspaces:**  
+`Windows` `Linux`
 
-Developed responsive and user-friendly UI
+---
 
-🔗 Link to Code <!-- Add project repo link -->
+## 💼 Featured Projects
 
-🎓 Education
-Diploma in Software Engineering (2023–2025) – GPA: 98
-Gur Seminary, Branch of the Rishon LeZion College of Management
-Elite Training: Ultra‑Code Program by KamaTech
-Completed advanced courses in Algorithms, Data Structures, Operating Systems, and more.
+### 🛒 SmartCart – Price Comparison Web App  
+**Industry Internship @ DaversiTech (2025)**  
+Built a full-stack platform for comparing prices across retail networks for Active4u Ltd.  
+**Tech Stack:** React.js | Node.js | PostgreSQL  
+- Integrated OpenAI API for smart product tagging  
+- Added interactive maps with Leaflet  
+- API documentation via Swagger  
+- CI/CD with GitHub Actions  
 
-🌐 Languages
-Hebrew: Native
+🔗 [View Code](#) <!-- ← Replace with actual GitHub repo link -->
 
-English: Professional Proficiency
+---
 
-🙌 Let's Connect!
-I'm open to internship or junior developer roles. Feel free to reach out via email or GitHub!
+### 🏋️‍♀️ Gym Management System – Final Project  
+Designed and implemented a booking and membership management system.  
+**Tech Stack:** React.js | .NET Core (C#) | SQL Server  
+- Built using 3-layer architecture with Entity Framework & AutoMapper  
+- Includes class scheduling, user management, and booking features  
 
+🔗 [View Code](#) <!-- ← Replace with actual GitHub repo link -->
+
+---
+
+## 📘 Education
+
+**Diploma in Software Engineering (2023–2025)**  
+Gur Seminary – Rishon LeZion College of Management  
+🎓 GPA: 98 | ✨ Ultra‑Code Program by KamaTech  
+
+---
+
+## 🌐 Languages
+
+- **Hebrew:** Native  
+- **English:** Professional Proficiency  
+
+---
+
+## 🤝 Let's Connect
+
+📫 Email: chaya.fertig2025@gmail.com  
+📞 Phone: 053-4137217  
+💼 [GitHub](https://github.com/cl7217)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
