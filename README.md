@@ -8,6 +8,8 @@
 
 I'm a highly motivated and fast-learning software developer with strong problem-solving skills and a love for building meaningful, high-quality projects. I’ve gained hands-on experience in both frontend and backend development, working with real clients and modern technologies.
 
+💡 I bring a strong academic foundation in algorithms, data structures, and system-level programming, with practical experience in both web and desktop development.
+
 🔍 I'm currently seeking my first role in the tech industry where I can contribute, grow, and make an impact.
 
 ---
@@ -15,19 +17,19 @@ I'm a highly motivated and fast-learning software developer with strong problem-
 ## 🔧 Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `C#` `.NET Core` `C++` `Java` `Python`  
+`C` `C++` `C# (.NET Core)` `Java` `Python` `JavaScript` `TypeScript`  
 
 **Frontend:**  
 `React.js` `HTML5` `CSS` (Tailwind)  
 
 **Backend:**  
-`Node.js` `Express` `.NET Core`  
+`Node.js` `Express.js` `.NET Core`  
 
 **Databases:**  
 `PostgreSQL` `MongoDB` `SQL Server`  
 
 **Tools & Platforms:**  
-`Git` `GitHub` `Swagger` `Postman` `GitHub Actions`  
+`Git` `GitHub` `Postman` `Swagger` `GitHub Actions`  
 `OpenAI API` `Leaflet`  
 
 **Workspaces:**  
@@ -64,7 +66,15 @@ Designed and implemented a booking and membership management system.
 
 **Diploma in Software Engineering (2023–2025)**  
 Gur Seminary – Rishon LeZion College of Management  
-🎓 GPA: 98 | ✨ Ultra‑Code Program by KamaTech  
+🎓 GPA: 98  
+✨ Ultra‑Code Program by KamaTech  
+
+📚 Completed advanced courses in:  
+- Algorithms & Data Structures (C/C++)  
+- Operating Systems  
+- Object-Oriented Design & Design Patterns  
+- Digital Systems  
+- Software Architecture  
 
 ---
 
