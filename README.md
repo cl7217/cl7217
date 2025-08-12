@@ -1,4 +1,8 @@
-# 👋 Hi there! I'm Chaya Fertig
+# Full-Stack Developer | Junior Experience, Senior Drive 💡
+
+---
+
+## 👋 Hi there! I'm Chaya Fertig
 
 🎓 Junior Software Developer | 💻 Full-Stack Enthusiast | 🚀 Passionate Problem-Solver
 
