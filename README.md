@@ -10,11 +10,14 @@
 
 ## 🧠 About Me
 
-I'm a highly motivated and fast-learning software developer with strong problem-solving skills and a love for building meaningful, high-quality projects. I’ve gained hands-on experience in both frontend and backend development, working with real clients and modern technologies.
 
-💡 I bring a strong academic foundation in algorithms, data structures, and system-level programming, with practical experience in both web and desktop development.
+I'm a highly motivated software developer with a proven ability to learn quickly and solve complex problems. Passionate about delivering meaningful, high-quality projects that make a real impact.
 
-🔍 I'm currently seeking my first role in the tech industry where I can contribute, grow, and make an impact.
+With hands-on experience in both frontend and backend development, I’ve collaborated with real clients using modern technologies and industry best practices.
+
+Backed by a solid academic foundation in algorithms, data structures, and system-level programming, I bring both theoretical depth and practical know-how across web and desktop platforms.
+
+Now, I’m eager to take on my first professional role where I can contribute immediately, grow rapidly, and help build scalable, production-grade software.
 
 ---
 
